@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hola, soy Carolina 👋</h1>
+<h1>Hola, soy Carolina 🙋‍♀️ </h1>
 
 <p>
 <strong>Full Stack Developer</strong> · Enfoque en Backend <br/>
