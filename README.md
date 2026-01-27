@@ -3,7 +3,7 @@
 <h1>Hola, soy Carolina 👋</h1>
 
 <p>
-Full Stack Developer · Backend-Oriented <br/>
+<strong>Full Stack Developer</strong> · Enfoque en Backend <br/>
 Construyo aplicaciones web modernas, escalables y centradas en las personas
 </p>
 
@@ -27,12 +27,12 @@ Actualmente busco oportunidades donde pueda **expandirme en todo el stack**, for
 
 ## 🧠 Qué hago como Full Stack Developer
 
-- Desarrollo de **aplicaciones web full stack**  
-- Creación de **APIs REST escalables y documentadas (Swagger)**  
+- Desarrollo de **aplicaciones web full stack** orientadas a producción  
+- Creación de **APIs REST escalables y documentadas (Swagger / OpenAPI)**  
 - Implementación de **autenticación y autorización (JWT)**  
-- Integración frontend–backend con foco en experiencia de usuario  
-- Modelado y manejo de **bases de datos SQL y NoSQL**  
-- Proyectos pensados para **producción, mantenimiento y escalabilidad**
+- Integración eficiente entre **frontend y backend**, con foco en UX  
+- Modelado y gestión de **bases de datos SQL y NoSQL**  
+- Proyectos pensados para **mantenibilidad, escalabilidad y crecimiento**
 
 ---
 
@@ -52,7 +52,7 @@ Actualmente busco oportunidades donde pueda **expandirme en todo el stack**, for
 - PostgreSQL  
 - MongoDB  
 
-### Herramientas y Workflow
+### Herramientas & Workflow
 - Git · GitHub  
 - Postman  
 - Cloudinary  
@@ -67,21 +67,21 @@ Backend API desarrollada con **NestJS y PostgreSQL**, integrada a soluciones fro
 
 **Aspectos destacados**
 - Arquitectura modular y escalable  
-- Autenticación, autorización y roles con JWT  
+- Autenticación, autorización y manejo de roles con JWT  
 - Persistencia de datos robusta  
 - Documentación de endpoints con Swagger  
 - Integración con servicios externos (Cloudinary)
 
-🔗 **Repositorio:**  
+🔗 **Repositorio**  
 👉 https://github.com/CarolinaAriza-mind/EcommerceTech
 
 ---
 
 ### 🍳 SiChef — Plataforma Full Stack de Cocina y Comunidad
 
-**SiChef** es una aplicación web full stack orientada a personas que desean **compartir conocimientos de cocina** y **aprender a cocinar** en comunidad. Esta aplicacion fue creada para un proyecto final de la academia Henry, y en colaboracion con otros dev.
+**SiChef** es una aplicación web full stack orientada a personas que desean **compartir conocimientos de cocina** y **aprender a cocinar** en comunidad.
 
-El objetivo del proyecto no es solo gestionar recetas, sino **crear una plataforma colaborativa**, donde la tecnología habilite el intercambio, el aprendizaje y la construcción de comunidad alrededor de una pasión compartida.
+Este proyecto fue desarrollado como **proyecto final de la academia Henry**, en colaboración con otros desarrolladores, con el objetivo de crear una plataforma donde la tecnología facilite el intercambio de saberes y la construcción de comunidad alrededor de una pasión compartida.
 
 **Tecnologías utilizadas**
 - Backend: NestJS · PostgreSQL · Swagger  
@@ -89,11 +89,11 @@ El objetivo del proyecto no es solo gestionar recetas, sino **crear una platafor
 
 Un proyecto donde el desarrollo full stack acompaña una experiencia social y humana.
 
-🔗 **Repositorio Front:**  
-👉 [https://[github.com/CarolinaAriza-mind/SiChef](https://github.com/sichefgrupotres/SiChefFront)]
+🔗 **Repositorio Frontend**  
+👉 https://github.com/sichefgrupotres/SiChefFront  
 
-🔗 **Repositorio Back:**  
-👉 [https://[github.com/CarolinaAriza-mind/SiChef](https://github.com/sichefgrupotres/SiChefFront)]
+🔗 **Repositorio Backend**  
+👉 https://github.com/sichefgrupotres/SiChefBack  
 
 ---
 
@@ -101,10 +101,10 @@ Un proyecto donde el desarrollo full stack acompaña una experiencia social y hu
 
 Busco oportunidades como **Full Stack Developer (Junior / Trainee)** donde pueda:
 
-- Trabajar con **Node.js, NestJS y tecnologías frontend modernas**
-- Participar en proyectos reales end-to-end
-- Seguir creciendo en arquitectura, frontend y backend
-- Aportar valor técnico, compromiso y visión de producto al equipo
+- Trabajar con **Node.js, NestJS y tecnologías frontend modernas**  
+- Participar en proyectos reales end-to-end  
+- Seguir creciendo en arquitectura, frontend y backend  
+- Aportar valor técnico, compromiso y visión de producto al equipo  
 
 ---
 
