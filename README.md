@@ -3,8 +3,8 @@
 <h1>Hola, soy Carolina 👋</h1>
 
 <p>
-Desarrolladora Full Stack con foco en Backend <br/>
-Construyo productos digitales con propósito, comunidad y buenas prácticas
+Full Stack Developer · Backend-Oriented <br/>
+Construyo aplicaciones web modernas, escalables y centradas en las personas
 </p>
 
 <p>
@@ -15,25 +15,24 @@ Construyo productos digitales con propósito, comunidad y buenas prácticas
 
 ---
 
-## ✨ Manifiesto
+## ✨ Perfil Profesional
 
-Creo en la tecnología como una herramienta para **conectar personas**,  
-resolver problemas reales y construir experiencias significativas.
+Soy **Full Stack Developer** con especial interés en el **desarrollo backend**, enfocada en construir aplicaciones web completas, desde la lógica de negocio hasta la experiencia de usuario.
 
-Me interesa desarrollar software **simple, escalable y humano**,  
-donde el diseño, la arquitectura y el propósito convivan en equilibrio.
+Trabajo con **Node.js, NestJS, PostgreSQL y Next.js**, desarrollando **APIs REST**, sistemas full stack y productos digitales pensados para crecer en entornos reales. Me interesa aplicar **buenas prácticas, arquitectura limpia y diseño consciente**, manteniendo siempre una mirada humana sobre la tecnología.
 
-Trabajo principalmente con **Node.js y NestJS**, creando APIs robustas,  
-y disfruto colaborar en proyectos donde el producto importa tanto como el código.
+Actualmente busco oportunidades donde pueda **expandirme en todo el stack**, fortalecer mis habilidades frontend y backend, y aportar valor desde el desarrollo técnico y el trabajo colaborativo.
 
 ---
 
-## 🧠 En qué trabajo
+## 🧠 Qué hago como Full Stack Developer
 
-- APIs REST claras, documentadas y mantenibles  
-- Arquitecturas backend limpias y escalables  
-- Autenticación, autorización y manejo de datos  
-- Proyectos pensados para crecer y sostenerse en el tiempo  
+- Desarrollo de **aplicaciones web full stack**  
+- Creación de **APIs REST escalables y documentadas (Swagger)**  
+- Implementación de **autenticación y autorización (JWT)**  
+- Integración frontend–backend con foco en experiencia de usuario  
+- Modelado y manejo de **bases de datos SQL y NoSQL**  
+- Proyectos pensados para **producción, mantenimiento y escalabilidad**
 
 ---
 
@@ -41,19 +40,19 @@ y disfruto colaborar en proyectos donde el producto importa tanto como el códig
 
 ### Backend
 - Node.js · NestJS · TypeScript  
-- JWT (Autenticación & Autorización)  
-- Swagger (OpenAPI)
+- JWT (Autenticación y Autorización)  
+- Swagger / OpenAPI  
 
 ### Frontend
-- Next.js · React  
+- React · Next.js  
 - Tailwind CSS  
-- HTML · CSS · JavaScript
+- HTML · CSS · JavaScript / TypeScript  
 
 ### Bases de Datos
 - PostgreSQL  
 - MongoDB  
 
-### Herramientas
+### Herramientas y Workflow
 - Git · GitHub  
 - Postman  
 - Cloudinary  
@@ -62,58 +61,61 @@ y disfruto colaborar en proyectos donde el producto importa tanto como el códig
 
 ## 🌸 Proyectos Destacados
 
-### 🛒 Ecommerce Backend — Insumos Tecnológicos
+### 🛒 Ecommerce Full Stack — Insumos Tecnológicos
 
-API REST desarrollada con **NestJS y PostgreSQL**, pensada para negocios tech  
-que buscan optimizar la gestión de productos, usuarios y operaciones.
+Backend API desarrollada con **NestJS y PostgreSQL**, integrada a soluciones frontend, pensada para **negocios tecnológicos** que requieren gestionar productos, usuarios y operaciones de forma segura y escalable.
 
-**Características clave**
-- Arquitectura modular
-- Autenticación y roles con JWT
-- Persistencia de datos robusta
-- Documentación con Swagger
-- Integración con Cloudinary
+**Aspectos destacados**
+- Arquitectura modular y escalable  
+- Autenticación, autorización y roles con JWT  
+- Persistencia de datos robusta  
+- Documentación de endpoints con Swagger  
+- Integración con servicios externos (Cloudinary)
+
+🔗 **Repositorio:**  
+👉 https://github.com/CarolinaAriza-mind/EcommerceTech
 
 ---
 
-### 🍳 SiChef — Comunidad de Cocina
+### 🍳 SiChef — Plataforma Full Stack de Cocina y Comunidad
 
-**SiChef** es una plataforma pensada para personas que desean **compartir sus conocimientos de cocina**  
-y, al mismo tiempo, **aprender de otros**.
+**SiChef** es una aplicación web full stack orientada a personas que desean **compartir conocimientos de cocina** y **aprender a cocinar** en comunidad. Esta aplicacion fue creada para un proyecto final de la academia Henry, y en colaboracion con otros dev.
 
-El propósito del proyecto no es solo publicar recetas,  
-sino **crear una comunidad** unida por la pasión por la cocina,  
-el intercambio de saberes y el aprendizaje colectivo.
+El objetivo del proyecto no es solo gestionar recetas, sino **crear una plataforma colaborativa**, donde la tecnología habilite el intercambio, el aprendizaje y la construcción de comunidad alrededor de una pasión compartida.
 
 **Tecnologías utilizadas**
-
 - Backend: NestJS · PostgreSQL · Swagger  
 - Frontend: Next.js · Tailwind CSS  
 
-Un proyecto donde la tecnología acompaña a la experiencia humana.
+Un proyecto donde el desarrollo full stack acompaña una experiencia social y humana.
+
+🔗 **Repositorio:**  
+👉 [https://[github.com/CarolinaAriza-mind/NOMBRE_DEL_REPO_ECOMMERCE](https://github.com/sichefgrupotres/SiChefFront)]
+👉 [https://[github.com/CarolinaAriza-mind/NOMBRE_DEL_REPO_ECOMMERCE](https://github.com/sichefgrupotres/Back)]
 
 ---
 
 ## 🎯 Objetivo Profesional
 
-Busco seguir creciendo como **Full Stack Developer con foco en Backend**,  
-participando en proyectos reales, colaborativos y con impacto.
+Busco oportunidades como **Full Stack Developer (Junior / Trainee)** donde pueda:
 
-Me motiva:
-- Aprender de equipos diversos  
-- Construir productos bien pensados  
-- Aportar tanto desde lo técnico como desde lo humano  
+- Trabajar con **Node.js, NestJS y tecnologías frontend modernas**
+- Participar en proyectos reales end-to-end
+- Seguir creciendo en arquitectura, frontend y backend
+- Aportar valor técnico, compromiso y visión de producto al equipo
 
 ---
 
-## 📬 Conectar
+## 📬 Contacto
 
-📧 Email: carolinaarizat93@gmail.com  
-🧑‍💻 GitHub: https://github.com/CarolinaAriza-mind  
+📧 **Email:** carolinaarizat93@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/carolina-ariza-4576b51b2/  
+🧑‍💻 **GitHub:** https://github.com/CarolinaAriza-mind  
 
 <div align="center">
-  
+
 Gracias por pasar por acá 🌱  
-Siempre abierta a aprender, compartir y crear en comunidad.
+Siempre abierta a aprender, colaborar y crear productos con propósito.
 
 </div>
+
