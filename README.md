@@ -1,15 +1,14 @@
-<p align="center">
-  <img width="200" src="https://avatars.githubusercontent.com/u/CarolinaAriza-mind?v=4" alt="Carolina Ariza"/>
-</p>
-
-<h1 align="center">Hola, soy Carolina Ariza 👋</h1>
+<h1 align="center">👋 Hola, soy Carolina Ariza</h1>
 
 <h3 align="center">
-  Full Stack Developer Junior | Backend Focused
+Full Stack Developer Junior | Backend Focused
 </h3>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=CarolinaAriza-mind.CarolinaAriza-mind"/>
+📍 Trelew, Chubut, Argentina | 🌎 Abierta a oportunidades remotas
+</p>
+
+<p align="center">
   <a href="https://github.com/CarolinaAriza-mind">
     <img src="https://img.shields.io/github/followers/CarolinaAriza-mind?label=Follow&style=social"/>
   </a>
@@ -19,54 +18,85 @@
 
 ## 🧠 Sobre mí
 
-<img width="45%" align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
+Soy **Full Stack Developer Junior con foco en Backend**, actualmente en formación en **Henry**, con experiencia desarrollando aplicaciones web y soluciones orientadas al usuario.
 
-Soy **Full Stack Developer Junior con foco en Backend**, actualmente en formación en **Henry**, con experiencia en el desarrollo de aplicaciones web y soluciones orientadas al usuario.
+Trabajo principalmente con **Node.js y NestJS**, construyendo **APIs REST**, aplicando autenticación y autorización con **JWT**, manejo de bases de datos relacionales y no relacionales, y buenas prácticas de desarrollo.
 
-Cuento con un fuerte background en **habilidades blandas** adquiridas en entornos de atención al cliente, liderazgo operativo y trabajo colaborativo. Me encuentro en aprendizaje continuo y busco una oportunidad para crecer profesionalmente y aportar valor a equipos de desarrollo.
+Cuento con un sólido background en **habilidades blandas** adquiridas en roles de atención al cliente, liderazgo operativo y trabajo colaborativo, lo que me permite integrarme fácilmente a equipos de desarrollo.
 
-- 🔭 Desarrollo backend con **NestJS** y **Node.js**
-- 🌱 Aprendiendo y profundizando en arquitecturas backend y bases de datos
-- 👯 Abierta a colaborar en proyectos tech
-- 💬 Pregúntame sobre APIs REST, JWT, PostgreSQL, MongoDB
-- ⚡ Fun fact: me apasiona optimizar procesos y aprender cosas nuevas
+Actualmente me encuentro en **aprendizaje continuo**, buscando una oportunidad para crecer profesionalmente y aportar valor desde el primer día.
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Stack Tecnológico
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jsonwebtoken/jsonwebtoken-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-</p>
+### 🔹 Backend
+- Node.js  
+- NestJS  
+- TypeScript  
+- JWT (Autenticación y Autorización)  
+
+### 🔹 Frontend
+- React  
+- Next.js  
+- HTML, CSS  
+- JavaScript / TypeScript  
+- Tailwind CSS  
+
+### 🔹 Bases de Datos
+- PostgreSQL  
+- MongoDB  
+
+### 🔹 Herramientas
+- Git & GitHub  
+- Postman  
+- Cloudinary  
 
 ---
 
 ## 🚀 Proyecto Destacado
 
 ### 🛒 Backend Ecommerce de Insumos Tecnológicos
-- API REST desarrollada con **NestJS**
-- Autenticación y autorización con **JWT**
-- Base de datos **PostgreSQL**
-- Almacenamiento de imágenes con **Cloudinary**
-- Diseñado para dueños de negocios tech que buscan optimizar la gestión de su comercio
+
+API REST para un sistema de ecommerce orientado a **negocios tecnológicos**, desarrollada con **NestJS**, enfocada en seguridad, escalabilidad y buenas prácticas.
+
+### ✨ Características
+- Arquitectura modular con NestJS  
+- CRUD de productos, usuarios y categorías  
+- Autenticación y autorización con JWT  
+- Manejo de roles  
+- Persistencia de datos con PostgreSQL  
+- Almacenamiento de imágenes con Cloudinary  
+
+### 🧩 Tecnologías
+- NestJS  
+- PostgreSQL  
+- MongoDB  
+- JWT  
+- Cloudinary  
 
 ---
 
 ## 🤝 Experiencia Relevante
 
-**Desarrolladora Freelancer – Proyecto ARKA**  
+### 💻 Desarrolladora Freelancer – Proyecto ARKA  
 📅 Enero 2023 – Actualidad  
-- Desarrollo de una aplicación empresarial para gestión de bodegaje  
-- Control de movimientos de mercadería y flujos de pago  
+
+- Desarrollo de una aplicación empresarial para gestión integral de bodegaje  
+- Implementación de funcionalidades para control de mercadería y flujos de pago  
 - Automatización de procesos operativos  
-- Trabajo colaborativo con buenas prácticas de desarrollo  
+- Trabajo colaborativo con un equipo multidisciplinario aplicando buenas prácticas  
+
+---
+
+## 🎯 Objetivo Profesional
+
+Busco incorporarme a un equipo de desarrollo donde pueda:
+
+- Profundizar en **Backend con NestJS / Node.js**
+- Participar en proyectos reales en producción  
+- Seguir creciendo como **Full Stack Developer con foco en Backend**
+- Aportar valor técnico y humano al equipo  
 
 ---
 
@@ -89,20 +119,14 @@ Cuento con un fuerte background en **habilidades blandas** adquiridas en entorno
 
 ---
 
-## 🌐 Conecta conmigo
+## 📫 Contacto
+
+📧 **Email:** carolinaarizat93@gmail.com  
+📍 **Ubicación:** Trelew, Chubut, Argentina  
+🧑‍💻 **GitHub:** https://github.com/CarolinaAriza-mind  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
-  </a>
-  <a href="https://github.com/TU_USUARIO">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
-  </a>
-</p>
-<p align="center">
-  <a href="mailto:carolinaarizat93@gmail.com">
-    📧 carolinaarizat93@gmail.com
-  </a>
-  <br/>
-  📍 Trelew, Chubut, Argentina
+Gracias por visitar mi perfil 🙌  
+<br/>
+Siempre abierta a aprender, colaborar y asumir nuevos desafíos.
 </p>
