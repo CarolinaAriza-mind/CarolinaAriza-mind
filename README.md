@@ -8,12 +8,6 @@ Full Stack Developer Junior | Backend Focused
 📍 Trelew, Chubut, Argentina | 🌎 Abierta a oportunidades remotas
 </p>
 
-<p align="center">
-  <a href="https://github.com/CarolinaAriza-mind">
-    <img src="https://img.shields.io/github/followers/CarolinaAriza-mind?label=Follow&style=social"/>
-  </a>
-</p>
-
 ---
 
 ## 🧠 Sobre mí
@@ -30,28 +24,44 @@ Actualmente me encuentro en **aprendizaje continuo**, buscando una oportunidad p
 
 ## 🛠️ Stack Tecnológico
 
-### 🔹 Backend
-- Node.js  
-- NestJS  
-- TypeScript  
-- JWT (Autenticación y Autorización)  
+🔹 Backend
 
-### 🔹 Frontend
-- React  
-- Next.js  
-- HTML, CSS  
-- JavaScript / TypeScript  
-- Tailwind CSS  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> Node.js
 
-### 🔹 Bases de Datos
-- PostgreSQL  
-- MongoDB  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="20"/> NestJS
 
-### 🔹 Herramientas
-- Git & GitHub  
-- Postman  
-- Cloudinary  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/> TypeScript
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jsonwebtoken/jsonwebtoken-original.svg" width="20"/> JWT (Autenticación y Autorización)
+
+🔹 Frontend
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> React
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20"/> Next.js
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> HTML
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> CSS
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript /
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/> TypeScript
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="20"/> Tailwind CSS
+
+🔹 Bases de Datos
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20"/> PostgreSQL
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20"/> MongoDB
+
+🔹 Herramientas
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> Git & GitHub
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="20"/> Postman
+
+<img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1623670919/brand/Cloudinary_Logomark_Blue.svg" width="20"/> Cloudinary
 ---
 
 ## 🚀 Proyecto Destacado
@@ -80,7 +90,7 @@ API REST para un sistema de ecommerce orientado a **negocios tecnológicos**, de
 ## 🤝 Experiencia Relevante
 
 ### 💻 Desarrolladora Freelancer – Proyecto ARKA  
-📅 Enero 2023 – Actualidad  
+📅 Octubre 2025 – Diciembre 2025 
 
 - Desarrollo de una aplicación empresarial para gestión integral de bodegaje  
 - Implementación de funcionalidades para control de mercadería y flujos de pago  
@@ -103,22 +113,10 @@ Busco incorporarme a un equipo de desarrollo donde pueda:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarolinaAriza-mind&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarolinaAriza-mind&theme=tokyonight"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaAriza-mind&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-</p>
-
----
-
 ## 📫 Contacto
 
 📧 **Email:** carolinaarizat93@gmail.com  
