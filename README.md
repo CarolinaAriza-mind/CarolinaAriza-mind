@@ -89,9 +89,11 @@ El objetivo del proyecto no es solo gestionar recetas, sino **crear una platafor
 
 Un proyecto donde el desarrollo full stack acompaña una experiencia social y humana.
 
-🔗 **Repositorio:**  
-👉 [https://[github.com/CarolinaAriza-mind/NOMBRE_DEL_REPO_ECOMMERCE](https://github.com/sichefgrupotres/SiChefFront)]
-👉 [https://[github.com/CarolinaAriza-mind/NOMBRE_DEL_REPO_ECOMMERCE](https://github.com/sichefgrupotres/Back)]
+🔗 **Repositorio Front:**  
+👉 [https://[github.com/CarolinaAriza-mind/SiChef](https://github.com/sichefgrupotres/SiChefFront)]
+
+🔗 **Repositorio Back:**  
+👉 [https://[github.com/CarolinaAriza-mind/SiChef](https://github.com/sichefgrupotres/SiChefFront)]
 
 ---
 
