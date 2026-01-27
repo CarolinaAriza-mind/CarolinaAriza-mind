@@ -4,11 +4,14 @@
 
 <p>
 <strong>Full Stack Developer</strong> · Enfoque en Backend <br/>
-Construyo aplicaciones web modernas, escalables y centradas en las personas
+Construyo aplicaciones web modernas, escalables y centradas en las necesidades de las personas
 </p>
 
 <p>
-📍 Argentina · 🌍 Abierta a oportunidades remotas
+📍 Viviendo en Argentina 
+</p>
+<p> 
+🌍 Abierta a oportunidades remotas
 </p>
 
 </div>
