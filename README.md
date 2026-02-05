@@ -113,7 +113,7 @@ Busco oportunidades como **Full Stack Developer (Junior / Trainee)** donde pueda
 
 ## 📬 Contacto
 
-📧 **Email:** carolinaarizat93@gmail.com  - carolinaariza11@gmail.com
+📧 **Email:** carolinaarizat93@gmail.com - carolinaariza11@gmail.com
 💼 **LinkedIn:** https://www.linkedin.com/in/carolina-ariza-4576b51b2/  
 🧑‍💻 **GitHub:** https://github.com/CarolinaAriza-mind  
 
