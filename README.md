@@ -11,7 +11,7 @@ Construyo aplicaciones web modernas, escalables y centradas en las necesidades d
 📍 Viviendo en Argentina 
 </p>
 <p> 
-🌍 Abierta a oportunidades remotas
+🌍 Abierta a oportunidades remotas, hibridas o presenciales
 </p>
 
 </div>
